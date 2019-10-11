@@ -1,5 +1,4 @@
 <!--pages/guide/guide.wxml-->
-<text class="headline">垃圾分类指南</text>
 <view class="guide_head"> 
   <view class="weizhi">
     <image src="../../images/weizhi.png"></image>

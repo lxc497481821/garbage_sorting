@@ -1,4 +1,5 @@
 {
+  "navigationBarTitleText": "垃圾分类指南",
   "usingComponents": {
     "van-search": "vant-weapp/search/index"
   }

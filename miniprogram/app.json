@@ -10,7 +10,8 @@
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F6F6F6",
     "navigationBarTitleText": "垃圾分类查询",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "black" ,
+    "enablePullDownRefresh": false
   },
   "sitemapLocation": "sitemap.json",
   "tabBar": {
