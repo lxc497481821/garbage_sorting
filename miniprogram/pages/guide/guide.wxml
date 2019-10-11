@@ -1,2 +1,16 @@
 <!--pages/guide/guide.wxml-->
-<text>垃圾分类指南</text>
+<text class="headline">垃圾分类指南</text>
+<view class="guide_head"> 
+  <view class="weizhi">
+    <image src="../../images/weizhi.png"></image>
+    <view>宁波</view>
+  </view>
+  <view class="search">
+    <image src="../../images/search.png"></image>
+    <input placeholder="搜索垃圾查看对于分类"></input>
+  </view>
+</view>
+<view class="publicity">
+  <text>{{text}}</text>
+</view>
+
