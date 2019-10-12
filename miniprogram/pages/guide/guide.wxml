@@ -9,7 +9,19 @@
     <input placeholder="搜索垃圾查看对于分类"></input>
   </view>
 </view>
-<view class="publicity">
-  <text>{{text}}</text>
+<van-notice-bar
+	class="annunciate"
+	text="{{text}}"
+/>
+<view class="Page_body" style="height:{{Page_body_height}}rpx;">
+	<view class="left">
+		<view>厨余垃圾</view>
+		<view>其他垃圾</view>
+		<view>可回收物</view>
+		<view>有害垃圾</view>
+	</view>
+	<view class="right">
+		123
+	</view>
 </view>
 
